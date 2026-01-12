@@ -8,43 +8,52 @@ NGO Management Platform – A comprehensive solution designed to streamline oper
 
 * Grant Management – Application, distribution, and compliance monitoring
 
-*Projects Management – End-to-end project lifecycle oversight
+* Projects Management – End-to-end project lifecycle oversight
 
-*Reporting & Analytics – Generate insights and compliance reports
+* Reporting & Analytics – Generate insights and compliance reports
 
-*This project aims to reduce administrative overhead for NGOs, allowing them to focus more on their core missions.
+* This project aims to reduce administrative overhead for NGOs, allowing them to focus more on their core missions.
 
 # 🛠️ Tech Stack & Tools
 ## Backend Development
-*Java Frameworks: 
- *Spring Boot, 
- *Spring AI
+* Java Frameworks: 
+ * Spring Boot, 
+ * Spring AI
+* Testing:
+   * JUnit,
+   * Mockito
 
- - Testing: JUnit, Mockito
+* Databases:
+  * PostgreSQL,
+  * Redis
 
- - Databases: SQL (MySQL/PostgreSQL), Redis
+* Messaging:
+  * Apache Kafka
 
- - Messaging: Apache Kafka
-
- - Monitoring: Grafana, Prometheus
+* Monitoring:
+   * Grafana,
+   * Prometheus
 
 ## Frontend Development
- -Framework: Next.js
- 
- -CSS: Tailwind CSS
+* Framework:
+   * Next.js
+   * Tailwind CSS
 
 ## DevOps & Deployment
- - Containerization: Docker
+* Containerization:
+   * Docker
 
- - Orchestration: Kubernetes (K8s)
+* Orchestration:
+  * Kubernetes (K8s)
 
- - Version Control: Git/GitHub
+* Version Control:
+   * Git
 
 ## Development Practices
- - Microservices Architecture
+* Microservices Architecture
 
- - CI/CD Pipelines
+* CI/CD Pipelines
 
- - API Design & Development
+* API Design & Development
 
- - Performance Monitoring & Optimization
+* Performance Monitoring & Optimization
