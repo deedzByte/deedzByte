@@ -4,19 +4,21 @@ I'm Desire, a passionate Software Developer specializing in building robust, sca
 # 🚀 What I'm currently working on
 NGO Management Platform – A comprehensive solution designed to streamline operations for non-profit organizations. The platform includes:
 
-- Timesheet & Attendance Tracking – Automated tracking and reporting
+*Timesheet & Attendance Tracking – Automated tracking and reporting
 
-- Grant Management – Application, distribution, and compliance monitoring
+*Grant Management – Application, distribution, and compliance monitoring
 
-- Project Portfolio Management – End-to-end project lifecycle oversight
+*Projects Management – End-to-end project lifecycle oversight
 
-- Reporting & Analytics – Generate insights and compliance reports
+*Reporting & Analytics – Generate insights and compliance reports
 
-- This project aims to reduce administrative overhead for NGOs, allowing them to focus more on their core missions.
+*This project aims to reduce administrative overhead for NGOs, allowing them to focus more on their core missions.
 
 # 🛠️ Tech Stack & Tools
 ## Backend Development
- - Java Frameworks: Spring Boot, Spring AI
+*Java Frameworks: 
+ *Spring Boot, 
+ *Spring AI
 
  - Testing: JUnit, Mockito
 
@@ -28,6 +30,7 @@ NGO Management Platform – A comprehensive solution designed to streamline oper
 
 ## Frontend Development
  -Framework: Next.js
+ 
  -CSS: Tailwind CSS
 
 ## DevOps & Deployment
