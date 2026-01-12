@@ -17,21 +17,22 @@ NGO Management Platform – A comprehensive solution designed to streamline oper
 # 🛠️ Tech Stack & Tools
 ## Backend Development
 * Java Frameworks: 
-   * Spring Boot, 
+   * Spring Boot 
    * Spring AI
 * Testing:
-   * JUnit,
+   * JUnit
    * Mockito
 
 * Databases:
-  * PostgreSQL,
+  * PostgreSQL
   * Redis
+  * Mongo DB
 
 * Messaging:
   * Apache Kafka
 
 * Monitoring:
-   * Grafana,
+   * Grafana
    * Prometheus
 
 ## Frontend Development
