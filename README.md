@@ -60,5 +60,7 @@ NGO Management Platform – A comprehensive solution designed to streamline oper
 * Performance Monitoring & Optimization
 
 # Projects
-![image alt]()
+![image alt](https://github.com/deedzByte/deedzByte/blob/1f8f650d2ca6fcfc6e293292de3bb7666b1b39f0/Screenshot%20(13).png) 
+
+![image alt](https://github.com/deedzByte/deedzByte/blob/1f8f650d2ca6fcfc6e293292de3bb7666b1b39f0/Screenshot%20(13).png)
 
