@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Desire, a passionate <u>**Software Developer**</u> specializing in building robust, scalable applications and microservices. With expertise across the full development lifecycle, I focus on creating efficient backend systems and intuitive frontend interfaces that solve real-world problems.
+I'm Desire, a passionate <u> **Software Developer** </u> specializing in building robust, scalable applications and microservices. With expertise across the full development lifecycle, I focus on creating efficient backend systems and intuitive frontend interfaces that solve real-world problems.
 
 # 🚀 What I'm currently working on
 NGO Management Platform – A comprehensive solution designed to streamline operations for non-profit organizations. The platform includes:
